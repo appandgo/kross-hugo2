@@ -4,8 +4,8 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "brian soufir"
 [[menu.main]]
-URL = "about"
-name = "About"
+URL = "contact"
+name = "Contact"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
@@ -16,9 +16,9 @@ URL = "blog"
 name = "Blog"
 weight = 3
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+URL = "about"
+name = "About"
+weight = 1
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
